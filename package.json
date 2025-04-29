@@ -1,0 +1,23 @@
+{
+    "name": "lettre-motivation",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "framer-motion": "^10.16.3",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-pageflip": "^2.0.3"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.4.1",
+        "autoprefixer": "^10.4.12",
+        "postcss": "^8.4.18",
+        "tailwindcss": "^3.2.4",
+        "vite": "^4.0.0"
+    }
+}
